@@ -1,0 +1,13 @@
+body {
+    background-image: url("BG.png");
+    margin:0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas{
+    position: absolute;
+}
